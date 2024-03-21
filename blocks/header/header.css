@@ -54,7 +54,7 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  color: blueviolet;
 }
 
 /* hamburger */
@@ -72,7 +72,7 @@ header nav .nav-hamburger button {
   border-radius: 0;
   padding: 0;
   background-color: var(--background-color);
-  color: inherit;
+  color: green;
   overflow: initial;
   text-overflow: initial;
   white-space: initial;
